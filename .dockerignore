@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode and editor files
+.vscode/
+*.swp
+
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+.env.*
+
+# Cache
+.pytest_cache/
+
+# OS / OneDrive
+Thumbs.db
+desktop.ini
+~$*
+
+# Ignore PyCharm and other IDE files
+.idea/
