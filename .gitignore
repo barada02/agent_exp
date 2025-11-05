@@ -1,0 +1,8 @@
+/adk
+/.vscode
+.env
+/venv
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
